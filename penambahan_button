@@ -3,6 +3,7 @@
   <title>Penambahan Button</title>
 </head>
   <body>
+    <p> Click tombol dibawah untuk menuju ke sebuah halaman </p>
     <button>Click Me</button>
   </body>
 </html>
