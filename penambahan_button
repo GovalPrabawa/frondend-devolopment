@@ -3,6 +3,6 @@
   <title>Penambahan Button</title>
 </head>
   <body>
-    <button>Click Saya</button>
+    <button>Click Me</button>
   </body>
 </html>
