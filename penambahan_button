@@ -3,7 +3,9 @@
   <title>Penambahan Button</title>
 </head>
   <body>
-  <p> Google Merupakan Web Browser untuk mencari informasi di internet yang dibagikan orang orang di seluruh dunia
+
+    <h1> Ke Google </h1>
+
     <p> Click tombol dibawah untuk menuju ke sebuah halaman </p>
     <button>Click Me</button>
   </body>
